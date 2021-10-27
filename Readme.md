@@ -28,6 +28,11 @@ I am a Frontend Developer. I am passionate about technologies and love to learn 
 <!--### Github Statistics:
 <img src="https://github-readme-stats.vercel.app/api?username=Zionell&&show_icons=true&count_private=true&theme=algolia" /> -->
   
+<a href="https://github.com/Zionell">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zionell&show_icons=true&theme=merko&count_private=true" alt="JayB's github stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zionell&theme=merko&layout=compact" alt="JayB's github top languages" />
+</a>
+  
 ### Let's Connect :coffee:
 
 <div  align="center">
