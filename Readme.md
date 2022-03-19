@@ -12,7 +12,7 @@ I am a Frontend Developer. I am passionate about technologies and love to learn 
 
 ## 👩‍💻 About me
 
-*  <img width="16" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-russia-countrys-flags-justicon-flat-justicon.png" alt="Russia"/> I'm from Russia
+<!-- *  <img width="16" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-russia-countrys-flags-justicon-flat-justicon.png" alt="Russia"/> I'm from Russia -->
 
 *  <img  width="16"  src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png"  alt=""  /> Love Programming
 
