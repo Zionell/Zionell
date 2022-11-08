@@ -25,12 +25,17 @@ I am a Frontend Developer. I am passionate about technologies and love to learn 
 
 <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5--v1.png" width="50" height="50"/>  </a>
 <a href="https://developer.mozilla.org/ru/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/50/000000/css3.png" width="50" height="50"/> </a> 
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/452-4521456_scss-logo-hd-png-download.png" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" width="50" height="50"/></a> 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/vue-js.png" width="50" height="50"/></a>
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://icons8.ru/icon/0ZKBQLFeVcPE/nuxt-js-a-free-and-open-source-web-application-framework" width="50" height="50"/></a>
+<a href="https://nuxtjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/nuxt/nuxt.js/HEAD/.github/nuxt.png" width="50" height="50"/></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/bootstrap.png" width="50" height="50"/> </a>  
 <a href="https://ru.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50" height="50"/></a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/node-js.png" width="50" height="50"/> </a>
+<a href="https://sequelize.org/" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="50" height="50"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://toppng.com//public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="50" height="50"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://thumbnail.imgbin.com/21/11/12/imgbin-mysql-logo-database-join-portable-network-graphics-table-fYjBwJzJKBWt9RtriTD0EiXZU_t.jpg" width="50" height="50"/></a>
+<a href="https://axios-http.com/docs/intro" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-Axios_%28computer_library%29_logo.svg.png" width="50" height="50"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/git.png" width="50" height="50"/></a>
 <a href="https://gulpjs.com/" target="_blank"> <img src="https://img.icons8.com/windows/32/E74C3C/gulp.png" width="50" height="50"/></a>
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webpack.png" width="50" height="50"/> </a>
