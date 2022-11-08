@@ -33,7 +33,7 @@ I am a Frontend Developer. I am passionate about technologies and love to learn 
 <a href="https://ru.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50" height="50"/></a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/node-js.png" width="50" height="50"/> </a>
 <a href="https://sequelize.org/" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="50" height="50"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://toppng.com/uploads/preview/mongodb-logo-11609369386lqoc6r2ga9.png" width="90" height="50"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" width="90" height="50"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/ru/d/d3/Mysql.png" width="90" height="50"/></a>
 <a href="https://axios-http.com/docs/intro" target="_blank"> <img src="https://user-images.githubusercontent.com/8939680/57233884-20344080-6fe5-11e9-8df3-0df1282e1574.png" width="150" height="50"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/git.png" width="50" height="50"/></a>
