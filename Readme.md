@@ -26,9 +26,10 @@ I am a Frontend Developer. I am passionate about technologies and love to learn 
 <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5--v1.png" width="50" height="50"/>  </a>
 <a href="https://developer.mozilla.org/ru/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/50/000000/css3.png" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" width="50" height="50"/></a> 
+<a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/vue-js.png" width="50" height="50"/></a>
+<a href="https://nuxtjs.org/" target="_blank"> <img src="https://icons8.ru/icon/0ZKBQLFeVcPE/nuxt-js-a-free-and-open-source-web-application-framework" width="50" height="50"/></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/bootstrap.png" width="50" height="50"/> </a>  
 <a href="https://ru.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50" height="50"/></a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/vue-js.png" width="50" height="50"/></a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/node-js.png" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/git.png" width="50" height="50"/></a>
 <a href="https://gulpjs.com/" target="_blank"> <img src="https://img.icons8.com/windows/32/E74C3C/gulp.png" width="50" height="50"/></a>
