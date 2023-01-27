@@ -28,7 +28,7 @@ I am a Frontend Developer. I am passionate about technologies and love to learn 
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://www.pngfind.com/pngs/m/452-4521456_scss-logo-hd-png-download.png" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" width="50" height="50"/></a> 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/vue-js.png" width="50" height="50"/></a>
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/nuxt/nuxt.js/HEAD/.github/nuxt.png" width="50" height="50"/></a>
+<a href="https://nuxtjs.org/" target="_blank"> <img src="https://miro.medium.com/max/1400/1*mh8il3s3hB0Xdpx6ffQLTw.png" width="50" height="50"/></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/bootstrap.png" width="50" height="50"/> </a>  
 <a href="https://ru.reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50" height="50"/></a>
 <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/node-js.png" width="50" height="50"/> </a>
