@@ -6,7 +6,7 @@
 
   
 
-I am a Frontend Developer. I am passionate about technologies and love to learn new things.
+I am a Middle Frontend Developer, mentor. I am passionate about technologies and love to learn new things.
 
   
 
