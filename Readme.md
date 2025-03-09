@@ -2,7 +2,7 @@
 
   
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px">Hi, I am Adilhan Askarov 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px">Hi, I am Adilkhan Askarov 👨‍💻
 
   
 
