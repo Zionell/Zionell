@@ -45,9 +45,9 @@ I am a Frontend Developer, mentor. I am passionate about technologies and love t
 <!--### Github Statistics:
 <img src="https://github-readme-stats.vercel.app/api?username=Zionell&&show_icons=true&count_private=true&theme=algolia" /> -->
   
-<a href="https://github.com/Zionell">
+<!-- <a href="https://github.com/Zionell">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zionell&theme=merko&layout=compact" alt="Zionell's github top languages" />
-</a>
+</a> -->
   
 ### Let's Connect :coffee:
 
@@ -58,3 +58,4 @@ I am a Frontend Developer, mentor. I am passionate about technologies and love t
 <a target="_blank" href="https://askarov.dev/"><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="portfolio"/></a>
 
 </div>
+
