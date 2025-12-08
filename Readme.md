@@ -15,6 +15,7 @@ I am a Frontend Developer, mentor. I am passionate about technologies and love t
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 <h3>Frontend</h3>
+<div>
 <img src="https://raw.githubusercontent.com/Zionell/portfolio/refs/heads/master/assets/icons/html.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/Zionell/portfolio/refs/heads/master/assets/icons/css.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/Zionell/portfolio/refs/heads/master/assets/icons/sass.svg" width="50" height="50"/>
@@ -32,6 +33,7 @@ I am a Frontend Developer, mentor. I am passionate about technologies and love t
 <img src="https://raw.githubusercontent.com/Zionell/portfolio/refs/heads/master/assets/icons/redux.svg" width="50" height="50"/>
 <br>
 <img src="https://raw.githubusercontent.com/Zionell/portfolio/refs/heads/master/assets/icons/greensock.svg" width="50" height="50"/>
+</div>
 
 <h3>Backend</h3>
 <img src="https://raw.githubusercontent.com/Zionell/portfolio/refs/heads/master/assets/icons/nodejs.svg" width="50" height="50"/>
@@ -66,3 +68,4 @@ I am a Frontend Developer, mentor. I am passionate about technologies and love t
 <a target="_blank" href="https://askarov.dev/"><img src="https://img.icons8.com/bubbles/50/000000/resume.png" alt="portfolio"/></a>
 
 </div>
+
