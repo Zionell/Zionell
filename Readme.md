@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="front/public/images/hero.png" alt="Hero visual" width="100%" height="150" />
+  <img src="https://github.com/Zionell/portfolio/blob/master/front/public/images/hero.png?raw=true" alt="Hero visual" width="100%" height="150" />
 
   <h1>ADILKHAN ASKAROV</h1>
   <p><strong>Senior Frontend Developer · Mentor</strong></p>
