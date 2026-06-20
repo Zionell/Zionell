@@ -88,21 +88,21 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Zionell/portfolio/blob/master/front/public/images/projects/nomad.jpg" alt="Nomad Backpacker" width="100%" />
+      <img src="https://github.com/Zionell/portfolio/blob/master/front/public/images/projects/nomad.jpg?raw=true" alt="Nomad Backpacker" width="100%" />
       <br />
       <strong>Nomad Backpacker</strong>
       <br />
       Travel product interface and community flows
     </td>
     <td>
-      <img src="https://github.com/Zionell/portfolio/blob/master/front/public/images/projects/dachboard.jpg" alt="AV Dashboard" width="100%" />
+      <img src="https://github.com/Zionell/portfolio/blob/master/front/public/images/projects/dachboard.jpg?raw=true" alt="AV Dashboard" width="100%" />
       <br />
       <strong>AV Dashboard</strong>
       <br />
       Data‑heavy admin UI
     </td>
     <td>
-      <img src="https://github.com/Zionell/portfolio/blob/master/front/public/images/projects/livesimply.jpg" alt="MoGo" width="100%" />
+      <img src="https://github.com/Zionell/portfolio/blob/master/front/public/images/projects/livesimply.jpg?raw=true" alt="MoGo" width="100%" />
       <br />
       <strong>Livesimply</strong>
       <br />
